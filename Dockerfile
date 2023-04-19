@@ -1,2 +1,2 @@
-FROM busybox
-COPY ./my-static-binary /my-static-binary
+FROM nginx
+COPY . /usr/share/nginx/html
