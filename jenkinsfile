@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=Onix-Website-Scan \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://35.153.18.88:9000 \
+  -Dsonar.login=6b1ddb0a293561a2696bc38e94a3a20cdd0f8470
